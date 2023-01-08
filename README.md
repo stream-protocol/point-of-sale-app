@@ -1,4 +1,6 @@
-# StreamPay - create an instant Point-of-Sale app powered by Solana Pay
+# StreamPay
+
+### Instant Point-of-Sale app powered by Solana Pay
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed420337-296c-483b-ae64-9eda80bcfec1/deploy-status)](https://app.netlify.com/sites/stream-pos-app/deploys)
 
