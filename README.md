@@ -6,4 +6,4 @@ We believe Solana Pay has the ability to drive significant adoption to Solana an
 
 The app is simple to use and is based on the Solana Pay specification which is implemented by all your familiar wallet apps that customers are likely to use. Learn more about Solana Pay here https://solanapay.com
 
-The StreamPOS app is live for use here: https://pos.streampayment.app
+The StreamPOS app is live for use here: 
